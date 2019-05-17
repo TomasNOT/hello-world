@@ -1,3 +1,2 @@
 # hello-world
-testing nuevamente
 Hola Mundo! Soy Tomás y estoy aprendiento a usar esto...
